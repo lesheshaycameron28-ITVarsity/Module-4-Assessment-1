@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #ffffff;
+}
+
+#right{
+    width: 60%;
+    float: right;
+    background-color: plum;
+}
+
+#left img{
+    width: 230px;
+    margin-left: 140px;
+    margin-top: 150px;
+}
+
+#logoo{
+    position: fixed;
+    width: 50px;
+    bottom: 20px;
+    right: 1150px;
+}
